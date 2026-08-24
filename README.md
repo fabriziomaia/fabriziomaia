@@ -285,7 +285,11 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fabriziomaia&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
+<img
+  src="./.github/assets/trophy.svg"
+  alt="Troféus do GitHub"
+  width="95%"
+/>
 
 </div>
 
@@ -295,24 +299,7 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake.svg"
-    alt="Animação das contribuições do GitHub"
-    width="95%"
-  />
-
-</picture>
+<img src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animação Snake das contribuições"/>
 
 </div>
 
