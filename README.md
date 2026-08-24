@@ -30,7 +30,7 @@
 
 ---
 
-# `> IDENTIDADE.SISTEMA`
+# `> IDENTIDADE SISTEMA`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
@@ -45,7 +45,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## `> SOBRE_MIM`
+## `> SOBRE MIM`
 
 Olá! Eu sou **Fabrizio Maia**, estudante de **Engenharia de Software pela FIAP**, com experiência no desenvolvimento de soluções para **automação de processos, integração de sistemas, manipulação de dados e desenvolvimento de aplicações**.
 
@@ -71,7 +71,7 @@ class Fabrizio:
 
 ---
 
-# `> STACK.TECNOLÓGICA`
+# `> STACK TECNOLÓGICA`
 
 ### 💻 Linguagens & Desenvolvimento
 
@@ -234,7 +234,7 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 
 ---
 
-# `> MISSÃO.ATUAL`
+# `> MISSÃO ATUAL`
 
 ```console
 ┌──(fabrizio㉿github)-[~/objetivos]
@@ -253,7 +253,7 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 
 ---
 
-# `> ESTATÍSTICAS.GITHUB`
+# `> ESTATÍSTICAS GITHUB`
 
 <div align="center">
 
@@ -291,11 +291,28 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 
 ---
 
-# `> MATRIZ.DE.CONTRIBUIÇÕES`
+# `> MATRIZ DE CONTRIBUIÇÕES`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animação Snake das contribuições"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake.svg"
+    alt="Animação das contribuições do GitHub"
+    width="95%"
+  />
+
+</picture>
 
 </div>
 
@@ -308,7 +325,7 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 │ FIAP                                                        │
 │ Engenharia de Software                                      │
 │                                                             │
-│ FEV/2023 ─────────────────────────────── DEZ/2026            │
+│ FEV/2023 ─────────────────────────────── DEZ/2026           │
 │                                                             │
 │ STATUS: ███████████████████████████████████░  EM ANDAMENTO  │
 └─────────────────────────────────────────────────────────────┘
