@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Gerar Snake de Contribuições
 
 on:
   schedule:
@@ -9,8 +9,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate Snake
+      - name: Gerar animação Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -18,9 +21,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publicar arquivos
+        uses: crazy-max/ghaction-github-pages@v5
         with:
+          target_branch: output
           build_dir: dist
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
