@@ -1,174 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=FABRIZIO%20MAIA&fontSize=55&fontColor=00F0FF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AUTOMATION%20%7C%20AI&descAlignY=58&descSize=18&animation=fadeIn&color=0:050505,50:071A24,100:001014" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=FABRIZIO%20MAIA&fontSize=55&fontColor=00F0FF&fontAlignY=38&desc=ENGENHARIA%20DE%20SOFTWARE%20%7C%20AUTOMA%C3%87%C3%83O%20%7C%20INTELIG%C3%8ANCIA%20ARTIFICIAL&descAlignY=58&descSize=16&animation=fadeIn&color=0:050505,50:071A24,100:001014" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%3E+INITIALIZING+FABRIZIO_OS...;%3E+LOADING+SOFTWARE+ENGINEER...;%3E+AUTOMATION+%2B+AI+%2B+PYTHON;%3E+SYSTEM+ONLINE+%E2%80%94+READY+TO+BUILD." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=85&lines=%3E+INICIALIZANDO+FABRIZIO_OS...;%3E+CARREGANDO+ENGENHARIA+DE+SOFTWARE...;%3E+PYTHON+%2B+AUTOMA%C3%87%C3%83O+%2B+IA;%3E+SISTEMA+ONLINE+%E2%80%94+PRONTO+PARA+CONSTRUIR." alt="Animação de digitação"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-SYSTEM%20ONLINE-00F0FF?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20AUTOMATION-7B2FFF?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCATION-S%C3%83O%20PAULO-111111?style=for-the-badge&logo=googlemaps&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/STATUS-SISTEMA%20ONLINE-00F0FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCO-IA%20%2F%20AUTOMA%C3%87%C3%83O-7B2FFF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-S%C3%83O%20PAULO-111111?style=for-the-badge&logo=googlemaps&logoColor=00F0FF"/>
 
 <br><br>
 
 <a href="https://github.com/fabriziomaia">
 <img src="https://img.shields.io/badge/GitHub-fabriziomaia-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"/>
 </a>
+
 <a href="https://www.linkedin.com/in/fabrizio-maia-apparicio-333440259/">
 <img src="https://img.shields.io/badge/LinkedIn-Fabrizio%20Maia-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/>
 </a>
+
 <a href="mailto:fabrizio.apparicio@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-Contato-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
 
 ---
 
-## `> SYSTEM.IDENTITY`
+# `> IDENTIDADE.SISTEMA`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                     FABRIZIO MAIA                           │
+│                    FABRIZIO MAIA                            │
 ├─────────────────────────────────────────────────────────────┤
-│ ROLE       : Software Engineering Student                  │
-│ SPECIALTY  : Automation • Backend • AI • Web               │
-│ CORE       : Python • APIs • Data • Process Automation      │
-│ EDUCATION  : Software Engineering @ FIAP                    │
-│ LOCATION   : São Paulo, Brazil                             │
-│ STATUS     : Building the next solution...                 │
+│ PERFIL      : Estudante de Engenharia de Software           │
+│ ESPECIALIDADE: Automação • Backend • IA • Desenvolvimento   │
+│ BASE        : Python • APIs • Dados • Automação             │
+│ FORMAÇÃO    : Engenharia de Software @ FIAP                 │
+│ LOCALIZAÇÃO : São Paulo, Brasil                             │
+│ STATUS      : Construindo a próxima solução...              │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## `> ABOUT_ME`
+## `> SOBRE_MIM`
 
-I'm a **Software Engineering student at FIAP** focused on building digital solutions that combine **software development, process automation, artificial intelligence and data**.
+Olá! Eu sou **Fabrizio Maia**, estudante de **Engenharia de Software pela FIAP**, com experiência no desenvolvimento de soluções para **automação de processos, integração de sistemas, manipulação de dados e desenvolvimento de aplicações**.
 
-My professional experience includes developing **Python-based automation solutions for HR**, integrating systems, manipulating data and optimizing operational workflows.
+Minha experiência profissional é principalmente voltada para a **automação de processos no setor de RH**, utilizando Python e ferramentas de automação para otimizar fluxos operacionais e aumentar a eficiência.
 
-I enjoy transforming repetitive processes into **scalable, intelligent and efficient solutions**.
+Tenho interesse especial por **Inteligência Artificial, desenvolvimento Backend, automação, integração de sistemas e produtos SaaS**.
 
 ```python
 class Fabrizio:
 
-    role = "Software Engineer"
-    
-    interests = [
-        "Artificial Intelligence",
-        "Process Automation",
-        "Backend Development",
-        "Web Development",
-        "SaaS Products"
+    perfil = "Engenharia de Software"
+
+    interesses = [
+        "Inteligência Artificial",
+        "Automação de Processos",
+        "Desenvolvimento Backend",
+        "Desenvolvimento Web",
+        "Produtos SaaS"
     ]
 
-    mindset = "Build → Automate → Optimize → Scale"
+    filosofia = "Construir → Automatizar → Otimizar → Escalar"
 ```
-
-My current professional direction is centered around **Software Development, Artificial Intelligence, Process Automation and IT**, with a strong interest in Python, backend systems, integrations and AI-powered products.
 
 ---
 
-## `> TECH_STACK`
+# `> STACK.TECNOLÓGICA`
 
-### `LANGUAGES & DEVELOPMENT`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,django&theme=dark" />
-
-</p>
-
-### `BACKEND & INTEGRATIONS`
+### 💻 Linguagens & Desenvolvimento
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/System%20Integration-0D1117?style=for-the-badge&logo=icloud&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Process%20Automation-0D1117?style=for-the-badge&logo=automattic&logoColor=00F0FF"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,django&theme=dark"/>
 
 </p>
-
-### `DATA & AUTOMATION`
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B"/>
+
+</p>
+
+### ⚙️ Backend & Integrações
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/APIs%20REST-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Integra%C3%A7%C3%A3o%20de%20Sistemas-0D1117?style=for-the-badge&logo=icloud&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Desenvolvimento%20Web-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF"/>
+
+</p>
+
+### 🤖 Automação & Dados
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20de%20Processos-0D1117?style=for-the-badge&logo=automattic&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/Power%20Automate-0D1117?style=for-the-badge&logo=powerautomate&logoColor=0078D4"/>
-<img src="https://img.shields.io/badge/Excel%20Advanced-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
-<img src="https://img.shields.io/badge/Data%20Manipulation-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+<img src="https://img.shields.io/badge/Excel%20Avan%C3%A7ado-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/Manipula%C3%A7%C3%A3o%20de%20Dados-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
 
 </p>
 
-### `AI & COMPUTER VISION`
+### 🧠 Inteligência Artificial & Visão Computacional
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Vis%C3%A3o%20Computacional-0D1117?style=for-the-badge&logo=opencv&logoColor=00F0FF"/>
 
 </p>
 
-### `VERSION CONTROL & TOOLS`
+### 🛠️ Ferramentas
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </p>
 
 ---
 
-## `> TOOLBOX`
+# `> EXPERIÊNCIA`
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     DEVELOPMENT TOOLBOX                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  ◈ Python              → Automation / Backend / Data         ║
-║  ◈ Django              → Web Development                     ║
-║  ◈ REST APIs           → System Integration                   ║
-║  ◈ Power Automate      → Corporate Automation                 ║
-║  ◈ OpenCV              → Computer Vision                      ║
-║  ◈ Excel               → Data Manipulation                    ║
-║  ◈ Git / GitHub        → Version Control                      ║
-║  ◈ HTML / CSS / JS     → Web Solutions                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## 🏢 Decision — DHO Tech Developer
 
----
-
-# `> EXPERIENCE`
-
-### `DECISION` — DHO Tech Developer Intern
-
-`NOV 2024 → PRESENT`
+`NOV/2024 → ATUAL`
 
 ```diff
-+ Development of HR process automation solutions using Python
-+ Creation and optimization of operational workflows
-+ System integration and data manipulation
-+ Automation of corporate processes
-+ Continuous improvement initiatives
++ Desenvolvimento de soluções para automação de processos de RH utilizando Python
++ Criação e otimização de fluxos operacionais
++ Integração de sistemas e manipulação de dados
++ Automação de processos corporativos
++ Participação em iniciativas de melhoria contínua
 ```
 
-My experience is primarily focused on **using technology to eliminate manual work, improve operational efficiency and create scalable solutions**.
+Minha atuação profissional está diretamente relacionada à utilização de tecnologia para **reduzir tarefas manuais, melhorar processos e gerar eficiência operacional**.
 
 ---
 
-# `> PROJECTS`
+# `> PROJETOS`
 
 <div align="center">
 
@@ -177,32 +159,31 @@ My experience is primarily focused on **using technology to eliminate manual wor
 
 <td width="50%" valign="top">
 
-<h3>🤖 AI HR Startup</h3>
+<h3>🤖 Startup de RH com IA</h3>
 
 <p>
-Academic startup focused on <b>AI-powered HR automation</b>, modernization of processes and operational efficiency.
+Projeto acadêmico de startup voltado à <b>automação e modernização de processos de Recursos Humanos utilizando Inteligência Artificial</b>.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/AI-00F0FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/HR%20Tech-7B2FFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Automation-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/IA-00F0FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/RH%20Tech-7B2FFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-111111?style=flat-square"/>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>⚙️ HR Process Automation</h3>
+<h3>⚙️ Automação de Processos para RH</h3>
 
 <p>
-Automation solutions for operational workflows, document validation and information integration using Python.
+Soluções para automatização de fluxos operacionais, validação de documentos e integração de informações utilizando Python e ferramentas de automação.
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/APIs-00F0FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-111111?style=flat-square"/>
 </p>
 
 </td>
@@ -213,10 +194,10 @@ Automation solutions for operational workflows, document validation and informat
 
 <td width="50%" valign="top">
 
-<h3>🌐 Freelance Web Solutions</h3>
+<h3>🌐 Projetos Freelance</h3>
 
 <p>
-Landing pages, web solutions and automation projects developed for clients using modern web technologies and Python.
+Desenvolvimento de <b>landing pages, soluções web e automações</b> para clientes utilizando HTML, CSS, JavaScript e Python.
 </p>
 
 <p>
@@ -230,16 +211,16 @@ Landing pages, web solutions and automation projects developed for clients using
 
 <td width="50%" valign="top">
 
-<h3>👁️ Computer Vision</h3>
+<h3>👁️ IA & Visão Computacional</h3>
 
 <p>
-Artificial intelligence and computer vision experiments designed to solve real-world problems using Python and OpenCV.
+Desenvolvimento de soluções utilizando <b>Python, OpenCV e automação</b> aplicadas à resolução de problemas reais.
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-00F0FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/IA-00F0FF?style=flat-square"/>
 </p>
 
 </td>
@@ -249,30 +230,30 @@ Artificial intelligence and computer vision experiments designed to solve real-w
 
 </div>
 
-The projects above reflect my main development direction: **automation, AI, web technologies and solutions designed around real operational problems**.
+Os projetos apresentados refletem os principais eixos da minha trajetória: **automação, Inteligência Artificial, desenvolvimento web e soluções digitais para problemas reais**.
 
 ---
 
-# `> CURRENT_MISSION`
+# `> MISSÃO.ATUAL`
 
 ```console
-┌──(fabrizio㉿github)-[~/mission]
-└─$ cat objectives.txt
+┌──(fabrizio㉿github)-[~/objetivos]
+└─$ cat objetivos.txt
 
-[01] ████████████████████  SOFTWARE ENGINEERING
-[02] ████████████████████  ARTIFICIAL INTELLIGENCE
-[03] ███████████████████░  PROCESS AUTOMATION
-[04] ██████████████████░░  BACKEND DEVELOPMENT
-[05] █████████████████░░░  SAAS PRODUCTS
-[06] ████████████████░░░░  SYSTEM INTEGRATION
+[01] ████████████████████  ENGENHARIA DE SOFTWARE
+[02] ████████████████████  INTELIGÊNCIA ARTIFICIAL
+[03] ███████████████████░  AUTOMAÇÃO DE PROCESSOS
+[04] ██████████████████░░  DESENVOLVIMENTO BACKEND
+[05] █████████████████░░░  PRODUTOS SAAS
+[06] ████████████████░░░░  INTEGRAÇÃO DE SISTEMAS
 
-> STATUS: EXECUTING
-> NEXT_TARGET: BUILD SOMETHING THAT MATTERS
+> STATUS: EXECUTANDO
+> PRÓXIMO OBJETIVO: TRANSFORMAR IDEIAS EM SOLUÇÕES
 ```
 
 ---
 
-# `> GITHUB_ANALYTICS`
+# `> ESTATÍSTICAS.GITHUB`
 
 <div align="center">
 
@@ -286,7 +267,7 @@ The projects above reflect my main development direction: **automation, AI, web 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=fabriziomaia&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7B2FFF&currStreakLabel=00F0FF" />
+<img src="https://streak-stats.demolab.com?user=fabriziomaia&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7B2FFF&currStreakLabel=00F0FF"/>
 
 </div>
 
@@ -300,7 +281,7 @@ The projects above reflect my main development direction: **automation, AI, web 
 
 ---
 
-# `> ACHIEVEMENTS`
+# `> CONQUISTAS`
 
 <div align="center">
 
@@ -310,34 +291,34 @@ The projects above reflect my main development direction: **automation, AI, web 
 
 ---
 
-# `> CONTRIBUTION_MATRIX`
+# `> MATRIZ.DE.CONTRIBUIÇÕES`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animação Snake das contribuições"/>
 
 </div>
 
 ---
 
-# `> EDUCATION`
+# `> FORMAÇÃO`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │ FIAP                                                        │
 │ Engenharia de Software                                      │
 │                                                             │
-│ Fev/2023 ─────────────────────────────── Dez/2026            │
+│ FEV/2023 ─────────────────────────────── DEZ/2026            │
 │                                                             │
-│ STATUS: ███████████████████████████████████░  IN PROGRESS   │
+│ STATUS: ███████████████████████████████████░  EM ANDAMENTO  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-Certificações e formação complementar incluem **Django Web Framework, Python com Orientação a Objetos, consumo de APIs, Front-End, Excel Avançado e Governança em TI**.
+Além da graduação em Engenharia de Software, possuo certificações em **Django Web Framework, Python com Orientação a Objetos, consumo de APIs, Front-End, Excel Avançado e Governança em TI**.
 
 ---
 
-# `> CONNECT`
+# `> CONECTE-SE`
 
 <div align="center">
 
@@ -362,9 +343,9 @@ Certificações e formação complementar incluem **Django Web Framework, Python
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│        "THE FUTURE IS BUILT, NOT PREDICTED."                │
+│          "O FUTURO É CONSTRUÍDO, NÃO PREVISTO."              │
 │                                                              │
-│              — SYSTEM SHUTDOWN PROTOCOL —                  │
+│                    SISTEMA ENCERRADO                         │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
