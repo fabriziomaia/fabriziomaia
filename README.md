@@ -228,7 +228,7 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 
 <div align="center">
 
-<img src="./profile/trophy.svg" height="150" alt="GitHub trophies"/>
+<img src="./profile/trophy.svg" height="250" alt="GitHub trophies"/>
 
 </div>
 
