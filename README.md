@@ -14,60 +14,29 @@
 
 <br><br>
 
-<a href="https://github.com/fabriziomaia">
-<img src="https://img.shields.io/badge/GitHub-fabriziomaia-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"/>
+<a href="https://www.linkedin.com/in/fabriziomapparicio">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
 </a>
 
-<a href="https://www.linkedin.com/in/fabrizio-maia-apparicio-333440259/">
-<img src="https://img.shields.io/badge/LinkedIn-Fabrizio%20Maia-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/>
+<a href="https://www.instagram.com/fabriziomaia/">
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
 </a>
 
 <a href="mailto:fabrizio.apparicio@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
 </a>
 
 </div>
 
 ---
 
-# `> IDENTIDADE SISTEMA`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    FABRIZIO MAIA                            │
-├─────────────────────────────────────────────────────────────┤
-│ PERFIL      : Estudante de Engenharia de Software           │
-│ ESPECIALIDADE: Automação • Backend • IA • Desenvolvimento   │
-│ BASE        : Python • APIs • Dados • Automação             │
-│ FORMAÇÃO    : Engenharia de Software @ FIAP                 │
-│ LOCALIZAÇÃO : São Paulo, Brasil                             │
-│ STATUS      : Construindo a próxima solução...              │
-└─────────────────────────────────────────────────────────────┘
-```
-
-## `> SOBRE MIM`
+# `> SOBRE MIM`
 
 Olá! Eu sou **Fabrizio Maia**, estudante de **Engenharia de Software pela FIAP**, com experiência no desenvolvimento de soluções para **automação de processos, integração de sistemas, manipulação de dados e desenvolvimento de aplicações**.
 
 Minha experiência profissional é principalmente voltada para a **automação de processos no setor de RH**, utilizando Python e ferramentas de automação para otimizar fluxos operacionais e aumentar a eficiência.
 
 Tenho interesse especial por **Inteligência Artificial, desenvolvimento Backend, automação, integração de sistemas e produtos SaaS**.
-
-```python
-class Fabrizio:
-
-    perfil = "Engenharia de Software"
-
-    interesses = [
-        "Inteligência Artificial",
-        "Automação de Processos",
-        "Desenvolvimento Backend",
-        "Desenvolvimento Web",
-        "Produtos SaaS"
-    ]
-
-    filosofia = "Construir → Automatizar → Otimizar → Escalar"
-```
 
 ---
 
@@ -78,16 +47,6 @@ class Fabrizio:
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,django&theme=dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B"/>
 
 </p>
 
@@ -136,7 +95,7 @@ class Fabrizio:
 
 ## 🏢 Decision — DHO Tech Developer
 
-`NOV/2024 → ATUAL`
+`NOV/2024 → AGO/2026`
 
 ```diff
 + Desenvolvimento de soluções para automação de processos de RH utilizando Python
@@ -257,25 +216,9 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriziomaia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7B2FFF&text_color=C9D1D9"/>
+<img src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziomaia&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=fabriziomaia&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=7B2FFF&currStreakLabel=00F0FF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fabriziomaia&bg_color=0D1117&color=00F0FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 
 </div>
 
@@ -285,12 +228,7 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 
 <div align="center">
 
-<img
-  src="./.github/assets/trophy.svg"
-  alt="Troféus do GitHub"
-  width="95%"
-/>
-
+<img src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 </div>
 
 ---
@@ -299,7 +237,7 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animação Snake das contribuições"/>
+<img data-importer="snake" src="https://raw.githubusercontent.com/fabriziomaia/fabriziomaia/snake-output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -321,28 +259,6 @@ Os projetos apresentados refletem os principais eixos da minha trajetória: **au
 Além da graduação em Engenharia de Software, possuo certificações em **Django Web Framework, Python com Orientação a Objetos, consumo de APIs, Front-End, Excel Avançado e Governança em TI**.
 
 ---
-
-# `> CONECTE-SE`
-
-<div align="center">
-
-<a href="https://github.com/fabriziomaia">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fabrizio-maia-apparicio-333440259/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:fabrizio.apparicio@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
